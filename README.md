@@ -6,7 +6,7 @@ An Arduino project that controls a single servo motor on Pin 13, continuously sw
 
 ## 📷 Circuit / Hardware Design
 
-![Circuit Diagram](path/to/your/circuit-image.png)
+![Circuit Diagram](connecting Servo motor.png)
 
 *Replace `path/to/your/circuit-image.png` with your image link or drag and drop your image here.*
 
@@ -14,7 +14,7 @@ An Arduino project that controls a single servo motor on Pin 13, continuously sw
 
 ## 🎬 Simulation Demo
 
-![Simulation GIF](path/to/your/simulation.gif)
+![Simulation GIF](CircuitdesignconnectingServomotor-ezgif.com-video-to-gif-converter.gif)
 
 *Replace `path/to/your/simulation.gif` with your GIF link or drag and drop your GIF here.*
 
