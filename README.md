@@ -3,17 +3,15 @@
 An Arduino project that controls a single servo motor on Pin 13, continuously sweeping from 0 to 180 degrees and pausing for 3 seconds after each sweep.
 
 ---
-
-## 📷 Circuit / Hardware Design
-
-![Circuit Diagram](connecting Servo motor.png)
-
-
----
-
 ## 🎬 Simulation Demo
 
 ![Simulation GIF](CircuitdesignconnectingServomotor-ezgif.com-video-to-gif-converter.gif)
+
+---
+
+## 📷 Circuit / Hardware Design
+
+![Circuit Diagram](Real%20life%20connecting%20Servo%20motor.jpg)
 
 
 ---
